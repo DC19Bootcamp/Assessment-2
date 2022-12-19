@@ -1,5 +1,18 @@
 # Unit 2 Challenge: Portfolio
 
+
+## Project description
+
+This is a portfolio that I will ultimatley use to showcase my work to date. 
+
+##Deployed application 
+
+https://dc19bootcamp.github.io/Daley-Portfolio/
+
+##Screenshot
+
+<img width="1278" alt="Portfolio screenshot" src="https://user-images.githubusercontent.com/119360569/208417774-2bf8191a-e246-4001-b0fa-81429bebe34f.PNG">
+
 ## Your Task
 
 This week, you'll build a portfolio page, which you can add to as the course progresses. 
