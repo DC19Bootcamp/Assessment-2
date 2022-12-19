@@ -5,11 +5,11 @@
 
 This is a portfolio that I will ultimatley use to showcase my work to date. 
 
-##Deployed application 
+## Deployed application 
 
 https://dc19bootcamp.github.io/Daley-Portfolio/
 
-##Screenshot
+## Screenshot
 
 <img width="1278" alt="Portfolio screenshot" src="https://user-images.githubusercontent.com/119360569/208417774-2bf8191a-e246-4001-b0fa-81429bebe34f.PNG">
 
