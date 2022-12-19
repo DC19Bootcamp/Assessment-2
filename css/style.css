@@ -53,11 +53,24 @@ align-items: stretch;
 justify-content: space-between;
 }
 
-#section-1 h2 {
-  flex: 0 0 20%;
-  text-align: right;
+#section-2 h2 {
+  text-align:left;
+  justify-content:last baseline;
+
 }
 
-#section-1 p {
+#section-2 p {
   flex: 0 0 75%;
+  text-align: center;
 }
+
+#section-2 {
+  flex: 0;
+  text-align: center;
+}
+
+#section-2 basketball {
+  flex: 0 75 640;
+  justify-content: left;
+}
+
